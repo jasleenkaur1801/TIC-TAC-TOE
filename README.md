@@ -22,3 +22,13 @@ You can check out the live version of the game here:
 ---
 
 ## 🗂️ Project Structure
+TIC-TAC-TOE/
+├── index.html # Home page (mode selection)
+├── AI.html # AI gameplay page
+├── friend.html # Two-player mode page
+├── AI.css # Styles for AI mode
+├── friend.css # Styles for Friend mode
+├── style.css # Styles for home page
+├── AI.js # Game logic for AI mode
+├── friend.js # Game logic for Friend mode
+└── images/ # Game-related images
