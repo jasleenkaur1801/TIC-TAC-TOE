@@ -21,6 +21,7 @@ You can check out the live version of the game here:
 
 ---
 
+```
 ## 🗂️ Project Structure
 TIC-TAC-TOE/
 ├── index.html # Home page (mode selection)
@@ -32,3 +33,4 @@ TIC-TAC-TOE/
 ├── AI.js # Game logic for AI mode
 ├── friend.js # Game logic for Friend mode
 └── images/ # Game-related images
+```
